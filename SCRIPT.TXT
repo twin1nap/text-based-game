@@ -1,0 +1,9 @@
+Je speler is een bekende game developer die wordt gekidnapt door een fan die eist dat je een 3de versie van zijn favoriete game maakt
+je moet sleutels vinden in verschillende objecten om te ontsnappen uit de kelder van je kidnapper,
+deze items moet je op verschillende plekken gebruiken en elk object heeft een eigen doel.
+sommige objecten leiden tot andere ontsnappingsrouttes en verschillende eindes. 
+deze objecten hebben hun eigen puzzels om te kunnen vinden of openen. 
+Kamer 1: in deze kamer kan je een sleutel vinden op een nachtkastje naast je bed waarmee je een kluis kan openen om de sleutel van een ander slot te krijgen
+kamer 2: je moet een stok vinden waarmee je een bijl of hamer kan maken. de hamer kan je gebruiken om de muur te breken en te ontsnappen en de bijl kan je gebruiken om de deur naar kamer 3 te openen. 
+de bijlkop is makelijker te vinden en de hamer kost meer moeite om te krijgen. voor de hamer moet je een puzzel compleet maken door een stukje te vinden onder een lamp. 
+kamer 3: in deze kamer vind je de fan en heb je 2 opties. of je maakt een puzzel of je maakt de game als een geheim einde. 
